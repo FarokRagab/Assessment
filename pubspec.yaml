@@ -45,6 +45,3 @@ flutter:
         - asset: assets/fonts/Dubai-Light.ttf
         - asset: assets/fonts/Dubai-Medium.ttf
         - asset: assets/fonts/Dubai-Regular.ttf
-        - asset: assets/fonts/Raleway-Regular.ttf
-        - asset: assets/fonts/Raleway-Medium.ttf
-        - asset: assets/fonts/Raleway-Thin.ttf
