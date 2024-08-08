@@ -1,10 +1,10 @@
 import 'dart:ui';
 
-import 'package:assessment/main.dart';
 import 'package:assessment/utils/constants/app_colors.dart';
 import 'package:assessment/utils/constants/app_enums.dart';
 import 'package:assessment/utils/constants/app_icons.dart';
 import 'package:assessment/utils/constants/app_strings.dart';
+import 'package:assessment/utils/constants/app_values.dart';
 import 'package:assessment/utils/widgets/custom_transparent_inkwell.dart';
 import 'package:assessment/utils/widgets/main_text.dart';
 import 'package:flutter/material.dart';
