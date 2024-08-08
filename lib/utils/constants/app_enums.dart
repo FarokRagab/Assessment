@@ -1,0 +1,4 @@
+enum SnackEnum {
+  success,
+  error,
+}
